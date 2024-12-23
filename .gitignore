@@ -53,3 +53,5 @@ analyse_ergebnis.md
 # Local development settings
 .env
 .env.local
+
+.DS_Store
