@@ -1,0 +1,55 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+ENV/
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# PyCharm
+.idea/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Ausgabedateien
+*.md
+!README.md
+output/
+analyse_ergebnis.md
+
+# Beispieldateien
+*.xlsx
+*.csv
+!beispiele/sample_data/*.xlsx
+!beispiele/sample_data/*.csv
+
+# Logs
+*.log
+
+# Local development settings
+.env
+.env.local
