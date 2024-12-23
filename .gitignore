@@ -50,8 +50,9 @@ analyse_ergebnis.md
 # Logs
 *.log
 
+# macOS
+.DS_Store
+
 # Local development settings
 .env
 .env.local
-
-.DS_Store
